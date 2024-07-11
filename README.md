@@ -20,7 +20,7 @@ To achieve the business objectives.
 
 ## Data Sources.
 The datasets were made available by 10alytics data consulting team.
-### Customer data features:
+### data dictionary:
 * Country: Name of the country where the suicide data is recorded.
 * Year: The year in which the suicide data is recorded.
 * Sex: Gender of the individuals (Male or Female).
