@@ -19,7 +19,7 @@ To achieve the business objectives.
 5.	Identify countries and regions with high or low suicide rates.
 
 ## Data Sources.
-	The datasets were made available by 10alytics data consulting team.
+The datasets were made available by 10alytics data consulting team.
 ### Customer data features:
 * Country: Name of the country where the suicide data is recorded.
 * Year: The year in which the suicide data is recorded.
