@@ -29,12 +29,12 @@
 
 - What is the pain point?
 
-HealthStat are currently struglling to uncover comprehensive insights into global suicide pattern. 
+HealthStat are currently struggling to uncover comprehensive insights and trends into global suicide pattern. 
 
 
 - What could be the ideal solution to this business problem?
 
-To comprehensively uncover and visualise insights into patterns, trends, and demographics in the data available, utilizing a Tableau dashboard that answers the followimg questions is key;
+To comprehensively uncover and visualize insights into patterns, trends, and demographics in the data available, utilizing a Tableau dashboard that answers the followimg questions is key;
 
 1. How do suicide rates vary across countries and demographic group?
 2. What is the trend of suicide in age?
